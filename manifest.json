@@ -1,0 +1,14 @@
+{
+    "name": "htop.emanuelesorce",
+    "description": "HTOP packaged for Ubuntu Touch",
+    "title": "HTOP",
+    "hooks": {
+        "ubports": {
+            "apparmor": "aa.apparmor"
+        }
+    },
+    "version": "1.0",
+	"icon": "htop.png",
+    "maintainer": "Emanuele Sorce <emanuele.sorce@hotmail.com>",
+    "framework" : "ubuntu-sdk-15.04.6"
+}
